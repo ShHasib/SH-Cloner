@@ -10,7 +10,7 @@ pkg install pip
 pkg install pip2
 pip2 install requests
 pip2 install mechanize
-git clone https://github.com/ShHasib/cybersh
+git clone https://github.com/ShHasib/SH-Cloner
 ```
 ## Run On Termux :
 ```
