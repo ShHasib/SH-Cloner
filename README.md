@@ -12,6 +12,11 @@ pip2 install requests
 pip2 install mechanize
 git clone https://github.com/ShTasrif/cybersh
 ```
+## Run On Termux :
+```
+cd SH-Cloner
+python2 sh.py
+```
 # Contact Info 
  1. [Telegram Group](https://t.me/cybershbd)
  2. [Admin Facebook](https://fb.com/sh.hasib.h)
